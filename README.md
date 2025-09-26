@@ -151,17 +151,6 @@ python scheduler.py
 - **Career Context**: "How GDP Growth Affects Job Opportunities"
 - **Comparative Studies**: "India vs Global Economic Performance"
 
-## 📱 Screenshots
-
-### Dashboard Overview
-![Dashboard](docs/images/dashboard.png)
-
-### AI Blog Generation
-![Blog Generation](docs/images/blog-generation.png)
-
-### Mobile Interface
-![Mobile View](docs/images/mobile.png)
-
 ## 🧪 Testing
 
 ```bash
